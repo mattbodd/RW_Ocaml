@@ -27,6 +27,7 @@ let prettyPrintList aList =
   myPrintList aList;
   printf "}\n"
 ;;
+(* end helper functions *)
 
 (* anonymous functions *)
 (* defined using the `fun` keyword *)
