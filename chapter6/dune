@@ -1,0 +1,9 @@
+(executable
+  (name variants)
+  (modules variants)
+  (libraries core))
+
+(executable
+  (name my_blang)
+  (modules my_blang)
+  (libraries core))
