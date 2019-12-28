@@ -2,3 +2,5 @@
 _build/
 # any emcas backup files
 *~
+# offline files (eg: RW OCaml chapters)
+offline_chapters/
