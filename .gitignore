@@ -4,3 +4,5 @@ _build/
 *~
 # offline files (eg: RW OCaml chapters)
 offline_chapters/
+# unsubmitted corrections
+*corrections.md*
