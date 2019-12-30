@@ -1,0 +1,29 @@
+(executable
+  (name dictionary)
+  (modules dictionary)
+  (libraries core))
+
+(executable
+  (name primative_mutable)
+  (modules primative_mutable)
+  (libraries core))
+
+(executable
+  (name loops)
+  (modules loops)
+  (libraries core))
+
+(executable
+  (name dlist)
+  (modules dlist)
+  (libraries core))
+
+(executable
+  (name imperative_programming)
+  (modules imperative_programming)
+  (libraries core))
+
+(executable
+  (name io)
+  (modules io)
+  (libraries core))
