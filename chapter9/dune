@@ -1,0 +1,4 @@
+(executable
+  (name functors)
+  (modules functors foldable)
+  (libraries core))
